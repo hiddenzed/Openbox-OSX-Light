@@ -11,12 +11,15 @@ Showcase
  Themes: [Arc](https://github.com/horst3180/arc-theme) | [Wallpaper](https://github.com/noirecat/Openbox-OSX-Light/wall/glacier.jpg) </sub>
 
 ![img1](img/pallate.png)
+
 <sub>based on `base16-ocean` and `Nord`.</sub>
 
 ![img2](img/rofi.png)
+
 <sub>Get from [this](https://gist.github.com/rawsh/9ae04a2bdbfce513ad0851d9277515d2).</sub>
 
 ![img3](img/notify.png)
+
 <sub>Notification using dunst.</sub>
 
 Setups
@@ -41,4 +44,4 @@ And just open **OSX-Light.obt** to apply the themes.
 License
 ========
 
-The themes is available under the ![MIT License](https://github.com/noirecat/Openbox-OSX-Light/LICENSE.txt)
+The themes is available under the [MIT License](https://github.com/noirecat/Openbox-OSX-Light/blob/master/LICENSE.txt)
