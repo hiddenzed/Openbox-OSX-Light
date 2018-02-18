@@ -6,21 +6,22 @@ Minimalist openbox theme with elementary OS style.
 Showcase
 ==========
 
-![img](img/overview.png)
 <sub>Screenshot Details: Icons: [Numix-Circle-Arc](https://aur.archlinux.org/packages/numix-circle-arc-icons-git/) |
  Themes: [Arc](https://github.com/horst3180/arc-theme) | [Wallpaper](https://github.com/noirecat/Openbox-OSX-Light/wall/glacier.jpg) </sub>
 
-![img1](img/pallate.png)
+![img](img/overview.png)
 
 <sub>based on `base16-ocean` and `Nord`.</sub>
 
-![img2](img/rofi.png)
+![img1](img/pallate.png)
 
 <sub>Get from [this](https://gist.github.com/rawsh/9ae04a2bdbfce513ad0851d9277515d2).</sub>
 
-![img3](img/notify.png)
+![img2](img/rofi.png)
 
 <sub>Notification using dunst.</sub>
+
+![img3](img/notify.png)
 
 Setups
 =======
